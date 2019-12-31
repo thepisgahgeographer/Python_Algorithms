@@ -1,3 +1,7 @@
-if (10>1):
-    print("Tru")
+def bike(color):
+    print("Bike Compeleted")
+    print(color)
+
+bike("red")
+
 
