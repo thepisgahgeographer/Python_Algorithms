@@ -29,3 +29,14 @@ elif number / 4:
 
 a = ["Ragley", "Piglet", 165]
 print(a[2])
+
+Cycle = "Yuri Rides a {} {} \n with {} travel"
+
+print(Cycle.format("Ragley", "Piglet", "160mm"))
+#print(type(a))
+
+
+def LN():
+    print(a)
+
+LN()
