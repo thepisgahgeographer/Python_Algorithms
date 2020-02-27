@@ -1,0 +1,3 @@
+ObjectID,Name,StartDepotName,EndDepotName,StartDepotServiceTime,EarliestStartTime,LatestStartTime,Capacities,CostPerUnitTime,CostPerUnitDistance,MaxTotalTime,MaxTotalTravelTime,MaxTotalDistance,AssignmentRule,OvertimeStartTime,CostPerUnitOvertime,MaxOrderCount
+1,Truck_1,San Francisco,San Francisco,60,8:00:00,8:00:00,15000,0.2,1.5,600,<Null>,<Null>,1,480,0.3,20
+2,Truck_3,San Francisco,San Francisco,60,8:00:00,8:00:00,15000,0.2,1.5,600,<Null>,<Null>,1,480,0.3,20
